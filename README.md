@@ -14,10 +14,10 @@ I'm a software engineer passionate about building intelligent systems and high-p
 ---
 
 ### 🔭 Current Focus
-- 🤖 **Researching:** Self-healing mechanisms for automated UI testing.
-- 📈 **Mastering:** Advanced Data Structures & Algorithms (NeetCode 150).
-- 🏃 **Training:** Preparing for my next half-marathon! (Big fan of the Garmin ecosystem).
-
+- 🤖 **Advancing:** Building autonomous self-healing mechanisms for mobile UI testing at **QualGent**.
+- 🛠️ **DSA Mastery:** Deep-diving into system design patterns and competitive programming optimizations.
+- 👨‍🏫 **Mentorship:** Refining teaching methodologies for Data Structures—focusing on recursion and tree traversal efficiency.
+- 🏃 **Performance:** Targeting a sub-1:20 half-marathon; leveraging Garmin's ecosystem for performance analytics.
 ---
 
 ### 📊 Professional Highlights
